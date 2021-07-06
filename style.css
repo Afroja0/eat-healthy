@@ -16,9 +16,40 @@ section{
 .link-button{
     background-image:linear-gradient(orange,tomato);
     text-decoration: none;
-    border-radius: 5px;
-    padding: 5px 5px;
+    border-radius: 30px;
+    padding: 10px;
     color: white;
     font-weight: 400;
     
+}
+.second-half img{
+    width: 50%;
+}
+.second-half {
+    width: 90%;
+    padding-top: 100px;
+}
+.about-me{
+    background-image: url(images/3.png);
+}
+.order-button{
+    background-image:linear-gradient(orange,tomato);
+    text-decoration: none;
+    border-radius: 30px;
+    padding: 20px;
+    color: white;
+    font-weight: 400;
+    
+    
+}
+.text{
+    margin-bottom: 100px;
+     
+}
+.text p{
+    padding:5px;
+  font-size: 20px; 
+}
+.my-recipies{
+    text-align: center;
 }
