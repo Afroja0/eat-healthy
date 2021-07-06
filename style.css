@@ -29,7 +29,7 @@ section{
     width: 90%;
     padding-top: 100px;
 }
-.about-me{
+.about-us{
     background-image: url(images/3.png);
 }
 .order-button{
@@ -53,3 +53,31 @@ section{
 .my-recipies{
     text-align: center;
 }
+.container {
+    display: flex;
+    
+    
+ }
+ .card{
+     
+  margin-right: 2%;
+  margin-left:1%;
+ box-shadow: 10px 10px 10px gray;
+ }
+footer{
+  
+    background-color: black
+   
+    text-align: center;
+    background-color: black;
+    color: white;
+}
+footer p{
+    text-align: center;
+}
+footer h1{
+    text-align: center;
+}
+
+  
+   
