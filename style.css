@@ -1,0 +1,14 @@
+.orange-color{
+    color: orange;
+}
+section{
+    display: flex;
+
+}
+.half-width{
+    padding-left: 10%;
+    width: 50%;
+}
+.half-width img{
+    width: 70%;
+}
