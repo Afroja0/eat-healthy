@@ -6,9 +6,19 @@ section{
 
 }
 .half-width{
-    padding-left: 10%;
+    padding-left: 15%;
     width: 50%;
+    
 }
 .half-width img{
-    width: 70%;
+    width: 80%;
+}
+.link-button{
+    background-image:linear-gradient(orange,tomato);
+    text-decoration: none;
+    border-radius: 5px;
+    padding: 5px 5px;
+    color: white;
+    font-weight: 400;
+    
 }
